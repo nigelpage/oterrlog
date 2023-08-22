@@ -1,0 +1,5 @@
+package oterrlog
+
+func init() {
+	
+}
